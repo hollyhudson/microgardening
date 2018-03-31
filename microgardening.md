@@ -145,7 +145,7 @@ Arugula grew fine on baby's blanket in one of the Vittorio tiers.
 
 #### As a Sprout
 
-![kohlrabi sprouts](media/kohlrabi_sprouts.jpg)
+![kohlrabi sprouts](media/kohlrabi_sprouts.JPG)
 
 They don't seem to grow well in the EasySprout -- but I had sanitized the seeds, so I don't know if that affected them.  They had a poor yield, with plenty of ungerminated seeds, and the sprouts themselves were thin (which is expected in this sprouter).  Took about 7 days.
 
