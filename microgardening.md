@@ -83,7 +83,9 @@ Sprouts will grow straight up in the sprouter, so you'll get longer, thicker ste
 
 ### Botanical Interests Sprouter
 
-It's very similar to the [Sprout Master](#sprout-master), but it's more attractive (well, I guess that's a matter of taste).  Since the walls are clear you can more easily monitor how things are going. Like the Sprout Master, it's hard to de-hull sprouts grown in this one because the hulls will adhere to the root area.
+It's very similar to the [Sprout Master](#sprout-master), but it's more attractive (well, I guess that's a matter of taste).  Since the walls are clear you can more easily monitor how things are going. Like the Sprout Master, it's hard to de-hull sprouts grown in this one because the hulls will adhere to the root area.But, if you don't mind the hulls, you can just pluck sprouts right out of this grower and pop them on your salad.
+
+![Botanical Interest sprouter with broccoli sprouts](media/botanical-interests-broc.jpg)
 
 ### Vittorio Tiered Sprouter
 
@@ -121,6 +123,28 @@ But they are gorgeous!  So, if you want something attractive and you're willing 
 ![sprouts growing in a glass tray](media/with_arduinos.JPG)
 
 ### Lettuce Boxes
+
+Lettuce boxes are the best way to grow microgreens I've found.  You can grow them on the lid, with the box serving as a water resevoir, and paper towels pushed through the lid to wick the water up to the plants.  There's no effort needed once you've set them up.
+
+I stumbled across this method on youtube by user Mini-Gro: [https://www.youtube.com/channel/UCWwaIXFtKyN8qEw_sMjfIUA](https://www.youtube.com/channel/UCWwaIXFtKyN8qEw_sMjfIUA).  I don't know who they are, they don't provide any links or info, and they only have 3 videos, but the technique is genius.
+
+I played around with the idea a bit, putting a baby's blanket on top of the paper towels to give the plants something more substantial to grow in than just a paper towel.
+
+![lettuce box with paper towels installed](media/lettuce_prep.JPG)
+
+![lettuce box with baby's blanket](media/lettuce_prep2.JPG)
+
+This didn't work well.  The roots of the sprouts pushed the baby's blanket up and away from the papertowels, causing it to dry out.  You can see the stunted sprouts in the corners.
+
+![lettuce box showing stunted sprouts](media/tuinkers_lettuce2.JPG)
+
+A better method, but a bit more fiddly, was to place the baby's blanket *under* the paper towel wick.  I then placed another paper towel on top of the whole thing since the baby's blanket had to be smaller than the size of the lid to fit under the paper towel wick.  Pro tip:  Don't try to moisten the baby's blanket before you install it or it will just dampen your paper towels, which will rip as you try to tighten them down over the medium.
+
+![lettuce box with seeds](media/mix_it_lettuce.JPG)
+
+After putting the seeds on I just gave them a quick spritz to dampen them, and then I never watered them again afterwards.  I covered them with an extra lid for the first few days while they germinated.
+
+![lettuce box with growing sprouts](media/mix_it_lettuce1.JPG)
 
 ## Medium and Supplements
 
