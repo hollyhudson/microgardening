@@ -157,12 +157,23 @@ After putting the seeds on I just gave them a quick spritz to dampen them, and t
 
 ### Arugula
 
+Arugula is a mucilaginous seed.
+
 #### As a Microgreen
 
 Arugula grew fine on baby's blanket in one of the Vittorio tiers.
 
 ### Broccoli
 ### Cilantro
+
+Websites say don't soak.  Some guy on youtube who grows them in bulk for restaurants says soak for 6 hours.  Also get "leisure split" seeds (seeds that are split in two).  
+
+After soaking just put them in a jar (maybe in an EasySprout) and let them germinate like sprouts for 3-5 days.  They do need good air flow, though, or they'll get mold.
+
+They need to go under the dirt, you can spray them into the dirt or plant and cover them with dirt.
+
+Cover them for several days so they get long and leggy, and then grow them in a lot of light.  Probably 20 days to harvest.  
+
 ### Dill
 ### Fenugreek
 ### Kohlrabi
