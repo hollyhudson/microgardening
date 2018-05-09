@@ -15,11 +15,25 @@
 	* [Plastic Trays](#plastic-trays)
 	* [Wire Inserts](#wire-inserts)
 	* [Lettuce Boxes](#lettuce-boxes)
-* [Medium and Supplements](#medium-and-supplements)
+
+* [Media](#media)
 	* [Baby's Blanket](#baby's-blanket)
 	* [Coconut Coir](#coconut-coir)
+	* [Clay Pebbles](#clay-pebbles)
+	* [Gravel](#gravel)
+
+* [Nutrient Solutions](#nutrient-solutions)
 	* [Kelp Fertilizer](#kelp-fertilizer)
 	* [Earthworm Castings](#earthworm-castings)
+	* [Hydroponic Solutions](#hydroponic-solutions)
+
+* [Pests](#pests)
+
+* [Environment](#environment)
+
+* [Hydroponic Techniques](#hydroponic-techniques)
+
+* [Automated Systems](#automated-systems)
 
 * [Plants](#plants)
 	* [Arugula](#arugula)
@@ -124,7 +138,7 @@ But they are gorgeous!  So, if you want something attractive and you're willing 
 
 ### Lettuce Boxes
 
-Lettuce boxes are the best way to grow microgreens I've found.  You can grow them on the lid, with the box serving as a water resevoir, and paper towels pushed through the lid to wick the water up to the plants.  There's no effort needed once you've set them up.
+Lettuce boxes work for growing microgreens.  You can grow them on the lid, with the box serving as a water resevoir, and paper towels pushed through the lid to wick the water up to the plants.  There's no effort needed once you've set them up.
 
 I stumbled across this method on youtube by user Mini-Gro: [https://www.youtube.com/channel/UCWwaIXFtKyN8qEw_sMjfIUA](https://www.youtube.com/channel/UCWwaIXFtKyN8qEw_sMjfIUA).  I don't know who they are, they don't provide any links or info, and they only have 3 videos, but the technique is genius.
 
@@ -146,12 +160,156 @@ After putting the seeds on I just gave them a quick spritz to dampen them, and t
 
 ![lettuce box with growing sprouts](media/mix_it_lettuce1.JPG)
 
-## Medium and Supplements
+## Media
+
+Plant roots need oxygen or they rot.  The more oxygen, the better the plant grows.
 
 ### Baby's Blanket
 ### Coconut Coir
+### Clay Pebbles
+
+Clay pebbles are large enough to not clog filters.
+
+### Gravel
+
+Gravel can affect the pH of the nutrient water.
+
+## Nutrient Solutions
+
 ### Kelp Fertilizer
 ### Earthworm Castings
+### Hydroponic Solutions
+
+
+## Pests
+
+Sanitizing solutions for containers:
+
+* 1 tablespoon bleach per pint of water
+* H2O2
+* Grapefruit seed extract
+
+For bugs, neem oil and cayenne pepper spray works.
+
+IPM: integrated pest management.
+
+# Envirmonment
+
+To cool a greenhouse: You can't shade without reducing light, so
+go with increasing ventilation instead.  If that doesn't work, then
+active cooling is needed.  It's not cost-effective to use refrigerated
+air, but in dry climates cooling with evaporative cooling or misting
+works, and can needed humidity.
+
+If you're in a very hot and very humid place, shading may be
+necessary, and can be limited to the 2-4 hours of highest temperatures
+to reduce the amount of light lost.  You'll still only get a 2-4
+degree F temperature reduction.
+
+Vapor Pressure Deficit: 
+
+Amount of moisture in the air - Amount of moisture the air can hold when saturated 
+
+Optimum VPD:i
+
+* Herbs and leafy greens: 0.65 - 0.9 kPa (kilopascals) 0.85 is optimum
+* Tomatoes, cucumbers, peppers:  0.9 - 1.2 kPa (drier)
+
+When humidity along the leaf Is too high it can't release moisture
+into that air, which slows its circulation. If it's too dry it just
+closes its stomata and Shuts down to protect itself from excessive
+moisture loss.
+
+CO2:
+
+Plants take up CO2 when it's light out. If you need
+to ventilate during the day and dont want to lose CO 2 enrichment,
+enrich in the morning while it's cool before you start ventilating.
+CO2 is taken in via the leaf stomata, so it's best to enrich
+when temp, humidity, and VPD/airflow conditions are favorable to
+open stomata. 700-1,500 ppm is best for most crops. light conditions
+should be favoring photosynthesis, or you'll be wasting CO2.
+
+## Hydroponic Techniques
+
+Hydroponics only deals with the root zone (as a term/description of a type of agriculture). 
+
+Four things are needed in a hydroponic system:
+
+* H2O
+* O2 for the roots
+* nutrients
+* root support
+
+For any system that uses electricity, you should get a GFI to protect
+the electrical system from water.
+
+### Deep Water Culture
+
+Aka raft or pond culture. Seedlings are transplanted to styrofoam
+rafts. Less risk of sudden water temp, pH, EC, etc. change because
+the large volume of water acts as a buffer. Simple, resilient to
+power failures. It's great for leafy greens, and any other plant
+with small root systems. Can easily revise planting density. Popular
+in the tropics.
+
+### Nutrient Film Technique
+
+Aka NFT.  Easy to scale, low water use. High growth rate. Uses
+shallow channels where a thin flim of nutrient soln continuously
+flows. They tend to be made with a lot of equipment, so they're
+complex and clogs & leaks become a big problem. Each trough should
+be pitched at a 7 degree angle.
+
+A-frame structures are popular, and allow all levels to get light. 
+
+It's harder to deal with algae if you want to grow organically, it
+will clog your pipes, and you can't use chemicals to kill it if
+you're growing organically. 
+
+### Wick Systems
+
+### Ebb and Flow
+
+Great for getting 02 to roots, but susceptible to power failures,
+tends to be expensive. Fast growth if roots spend time exposed to
+the air.
+
+### Drip Systems
+
+With buckets are good for vines like tomatoes, cucumbers, etc.
+Basically any plant with a long lifecycle and a large root system.
+
+### Aeroponics
+
+Misting the root zone with a nutrient solution. Allows larger root
+growth, excellent oxygenation. Even none complex than NFT. But 67%
+more growth.
+
+### Vertical Farming
+
+Costly, power hungry, high growth rate, less water used. Labor intensive,
+space-efficient. Can use drip from the top to a wicking strip that
+runs down to each plant.
+
+### Kratkey Method
+
+Super simple, you need to be able to harvest in 30 days.  Leafy
+greens like mint, basil, lettuce all grow well. Good for home, not
+commercial.
+
+## Automated Systems
+
+You can automate nutrient delivery with injectors with a solenoid
+valve, but there's less complexity in just dumping the solution
+into your resevoir if labor isn't an issue.
+
+For aeration: air stone, splashing, ebb i. flow, aeroponics, venturi.
+Using a venturi is a particularly powerful and simple way to add
+oxygen to water, but it needs to be designed into the plumbing from
+the beginning.
+
+## Media
 
 ## Plants
 
@@ -178,6 +336,10 @@ Cover them for several days so they get long and leggy, and then grow them in a 
 ### Fenugreek
 ### Kohlrabi
 
+### Lettuce
+
+Likes cools temperatures.  There's an upper limit for what it can tolerate.
+
 #### As a Sprout
 
 ![kohlrabi sprouts](media/kohlrabi_sprouts.JPG)
@@ -196,6 +358,10 @@ Mung beans will develop thicker stems (roots?) if you place a weight on them.  N
 
 In the Sprout Master use 1/2 cup seeds for one entire tray.  
 
-### Mustard ### Radish ### Tuinkers aka Garden Cress
+### Mustard 
+
+### Radish 
+
+### Tuinkers aka Garden Cress
 
 Tuinkers are one of my favorites.
